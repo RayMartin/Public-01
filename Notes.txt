@@ -3,4 +3,6 @@ Update-02 from GitHub
 Update-03 from HP-EliteDesk-Eclipse
 Update-04 from MarvelAero-Loaner-Eclipse
 Update-05 from MarvelAero-Loaner-Eclipse
+Update-06 to debug-01 branch from MarvelAero-Loaner-Eclipse using RayMartin PAT
+Update-07 to debug-01 branch from MarvelAero-Loaner-Eclipse
 Update-08 to main branch from MarvelAero-Loaner-Eclipse
